@@ -6,11 +6,11 @@ figlet PhoneRoot
 echo                                   mr :amine10a
 echo
 echo
-cp  KingRoot.apk /sdcard
+cp  kingroot-5-3-7.apk /sdcard
 echo ___________________________
 echo                                                   
 echo       go to sdcard and 
 echo    install KingRoot now
 echo __________________________
-termux-open KingRoot.apk
+termux-open kingroot-5-3-7.apk
 
